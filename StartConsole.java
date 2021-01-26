@@ -3,4 +3,5 @@ int numOfTeams = 10;
 String startMessag="Hello";
 
 runConsole();
+checkForTeams();
 }
