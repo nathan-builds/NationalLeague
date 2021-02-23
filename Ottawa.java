@@ -4,6 +4,6 @@ public class Ottawa{
 	public int rosterSize = 22;
 	
 	public void checkGoals(){
-		// do something
+		// do something do something again
 	}
 }
